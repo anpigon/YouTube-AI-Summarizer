@@ -1,6 +1,6 @@
 ---
 title: Youtube Summary
-emoji: 🏆
+emoji: 📺
 colorFrom: gray
 colorTo: green
 sdk: streamlit
