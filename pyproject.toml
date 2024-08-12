@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "youtube-summary"
+version = "0.1.0"
+description = ""
+authors = ["anpigon <markan82@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.9"
+pytubefix = "^6.10.2"
+google-generativeai = "^0.7.2"
+streamlit = "^1.37.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
