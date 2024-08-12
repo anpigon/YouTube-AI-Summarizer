@@ -1,10 +1,13 @@
+import os
+import time
+import logging
+from dotenv import load_dotenv
 import streamlit as st
 from pytubefix import YouTube
 from pytubefix.cli import on_progress
 import google.generativeai as genai
-import time
-import os
-import logging
+
+load_dotenv()  # take environment variables from .env.
 
 logging.basicConfig(level=logging.DEBUG)
 

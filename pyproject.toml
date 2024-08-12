@@ -10,6 +10,7 @@ python = "3.11.9"
 pytubefix = "^6.10.2"
 google-generativeai = "^0.7.2"
 streamlit = "^1.37.1"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
