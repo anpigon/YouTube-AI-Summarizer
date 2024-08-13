@@ -66,6 +66,9 @@ license: mit
 
 3. **YouTube 동영상 URL을 붙여넣고 "요약"을 클릭합니다.**
 
+### References
+- https://ai.google.dev/gemini-api/docs/vision?hl=ko&lang=python#prompting-video
+
 ### 기여
 
 기여는 언제나 환영합니다! 제안이나 개선 사항이 있으면 이슈를 열거나 풀 리퀘스트를 제출해 주세요.
